@@ -1,0 +1,14 @@
+C:\Users\alexr\source\repos\Week3IfandSwitch\IfDayOfTheWeek\bin\Debug\net8.0\IfDayOfTheWeek.exe
+C:\Users\alexr\source\repos\Week3IfandSwitch\IfDayOfTheWeek\bin\Debug\net8.0\IfDayOfTheWeek.deps.json
+C:\Users\alexr\source\repos\Week3IfandSwitch\IfDayOfTheWeek\bin\Debug\net8.0\IfDayOfTheWeek.runtimeconfig.json
+C:\Users\alexr\source\repos\Week3IfandSwitch\IfDayOfTheWeek\bin\Debug\net8.0\IfDayOfTheWeek.dll
+C:\Users\alexr\source\repos\Week3IfandSwitch\IfDayOfTheWeek\bin\Debug\net8.0\IfDayOfTheWeek.pdb
+C:\Users\alexr\source\repos\Week3IfandSwitch\IfDayOfTheWeek\obj\Debug\net8.0\IfDayOfTheWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexr\source\repos\Week3IfandSwitch\IfDayOfTheWeek\obj\Debug\net8.0\IfDayOfTheWeek.AssemblyInfoInputs.cache
+C:\Users\alexr\source\repos\Week3IfandSwitch\IfDayOfTheWeek\obj\Debug\net8.0\IfDayOfTheWeek.AssemblyInfo.cs
+C:\Users\alexr\source\repos\Week3IfandSwitch\IfDayOfTheWeek\obj\Debug\net8.0\IfDayOfTheWeek.csproj.CoreCompileInputs.cache
+C:\Users\alexr\source\repos\Week3IfandSwitch\IfDayOfTheWeek\obj\Debug\net8.0\IfDayOfTheWeek.dll
+C:\Users\alexr\source\repos\Week3IfandSwitch\IfDayOfTheWeek\obj\Debug\net8.0\refint\IfDayOfTheWeek.dll
+C:\Users\alexr\source\repos\Week3IfandSwitch\IfDayOfTheWeek\obj\Debug\net8.0\IfDayOfTheWeek.pdb
+C:\Users\alexr\source\repos\Week3IfandSwitch\IfDayOfTheWeek\obj\Debug\net8.0\IfDayOfTheWeek.genruntimeconfig.cache
+C:\Users\alexr\source\repos\Week3IfandSwitch\IfDayOfTheWeek\obj\Debug\net8.0\ref\IfDayOfTheWeek.dll
